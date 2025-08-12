@@ -1,4 +1,6 @@
 # Miro
+![Uploading image.png…]()
+
 
 ## Introduction
 
