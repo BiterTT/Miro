@@ -1,5 +1,7 @@
 # Miro
-![Uploading image.png…]()
+
+![OIP](https://github.com/user-attachments/assets/f30f8cf1-fdfc-4417-9378-ad384f786b41)
+
 
 
 ## Introduction
